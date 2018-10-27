@@ -1,8 +1,8 @@
 /*
 --------------------------------------------------------------------------------
 create variables that have the following types:
-undefined, null, object, array, string, number, boolean. BONUS: create a symbol.
---------------------------------------------------------------------------------
+undefined, null, object, array, string, number, boolean. BONUS: create a symbol
+--------------------------------------*-----------------------------------------
 let dataTypeUndefined;
 let dataTypeNull    = null;
 let dataTypeObject  = {country : 'Liberia', capital :'Monrovia'};
